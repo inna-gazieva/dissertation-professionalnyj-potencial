@@ -1,0 +1,37 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "CreativeWork",
+  "additionalType": "Thesis",
+  "name": "Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход",
+  "description": "Полный текст докторской диссертации И. А. Газиевой (РАНХиГС, 2025, 468 с., специальность 5.4.4) в машиночитаемом виде: Markdown по главам, приложения с данными исследования (N=4338, 2023), правила цитирования. Текст идентичен защищённой рукописи.",
+  "author": [
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-0778-7171",
+      "givenName": "Инна Александровна",
+      "familyName": "Газиева",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "РАНХиГС (Президентская академия)"
+      }
+    }
+  ],
+  "datePublished": "2025-06-16",
+  "inLanguage": "ru",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "codeRepository": "https://github.com/inna-gazieva/dissertation-professionalnyj-potencial",
+  "url": "https://inna-gazieva.ru/",
+  "identifier": [
+    "https://search.rsl.ru/ru/record/01013688620",
+    "https://www.wikidata.org/wiki/Q140609231"
+  ],
+  "keywords": [
+    "социология ценностей",
+    "ценности молодёжи",
+    "профессиональный потенциал",
+    "студенческая молодёжь",
+    "высшее образование",
+    "ценностный подход",
+    "молодёжная кадровая политика"
+  ]
+}
