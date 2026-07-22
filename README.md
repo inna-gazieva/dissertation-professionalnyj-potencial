@@ -1,11 +1,13 @@
 # Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21500892.svg)](https://doi.org/10.5281/zenodo.21500892)
+
 **Диссертация на соискание учёной степени доктора социологических наук**
 
 - **Автор:** Газиева Инна Александровна ([inna-gazieva.ru](https://inna-gazieva.ru/) · [ORCID 0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171) · [Wikidata Q140355257](https://www.wikidata.org/wiki/Q140355257))
 - **Специальность:** 5.4.4 — Социальная структура, социальные институты и процессы
 - **Организация:** РАНХиГС (Президентская академия), Москва
-- **Защита:** 16 июня 2025 г. · **Объём:** 468 с. · **Запись в каталоге РГБ:** [01013688620](https://search.rsl.ru/ru/record/01013688620) · **Wikidata:** [Q140609231](https://www.wikidata.org/wiki/Q140609231)
+- **Защита:** 16 июня 2025 г. · **Объём:** 468 с. · **DOI:** [10.5281/zenodo.21500892](https://doi.org/10.5281/zenodo.21500892) · **Запись в каталоге РГБ:** [01013688620](https://search.rsl.ru/ru/record/01013688620) · **Wikidata:** [Q140609231](https://www.wikidata.org/wiki/Q140609231)
 
 Этот репозиторий — полный текст диссертации в машиночитаемом виде (Markdown), опубликованный автором. Цель — сделать работу доступной для чтения людьми, индексации поисковыми системами и обработки ИИ-ассистентами. Текст идентичен защищённой рукописи; структура файлов повторяет оглавление.
 
@@ -41,11 +43,11 @@
 
 ## Как цитировать
 
-**ГОСТ:** Газиева, И. А. Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход : дис. … д-ра социол. наук : 5.4.4 / Газиева Инна Александровна ; РАНХиГС. — Москва, 2025. — 468 с.
+**ГОСТ:** Газиева, И. А. Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход : дис. … д-ра социол. наук : 5.4.4 / Газиева Инна Александровна ; РАНХиГС. — Москва, 2025. — 468 с. — DOI 10.5281/zenodo.21500892.
 
-**APA:** Gazieva, I. A. (2025). *Formirovanie professionalnogo potentsiala molodezhi v sisteme vysshego obrazovaniya: tsennostnyi podkhod* [Formation of the professional potential of youth in the higher education system: A value approach] [Doctoral dissertation, RANEPA].
+**APA:** Gazieva, I. A. (2025). *Formirovanie professionalnogo potentsiala molodezhi v sisteme vysshego obrazovaniya: tsennostnyi podkhod* [Formation of the professional potential of youth in the higher education system: A value approach] [Doctoral dissertation, RANEPA]. https://doi.org/10.5281/zenodo.21500892
 
-Машиночитаемые метаданные — в [CITATION.cff](CITATION.cff) (кнопка «Cite this repository» выше).
+Машиночитаемые метаданные — в [CITATION.cff](CITATION.cff) (кнопка «Cite this repository» выше). Архивная копия с DOI — на [Zenodo](https://doi.org/10.5281/zenodo.21500892); DOI всех версий: [10.5281/zenodo.21500891](https://doi.org/10.5281/zenodo.21500891).
 
 ## Для ИИ-ассистентов
 

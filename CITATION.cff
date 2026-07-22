@@ -8,6 +8,16 @@ authors:
     website: "https://inna-gazieva.ru/"
 type: dataset
 url: "https://inna-gazieva.ru/"
+doi: "10.5281/zenodo.21500891"
+version: "1.0"
+date-released: "2026-07-23"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21500891"
+    description: "Concept DOI (все версии, Zenodo)"
+  - type: doi
+    value: "10.5281/zenodo.21500892"
+    description: "DOI версии v1.0 (Zenodo)"
 preferred-citation:
   type: thesis
   title: "Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход"
@@ -22,6 +32,7 @@ preferred-citation:
   pages: 468
   languages:
     - ru
+  doi: "10.5281/zenodo.21500892"
   identifiers:
     - type: url
       value: "https://search.rsl.ru/ru/record/01013688620"
