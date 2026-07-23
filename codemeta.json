@@ -8,11 +8,11 @@
     {
       "@type": "Person",
       "@id": "https://orcid.org/0000-0002-0778-7171",
-      "givenName": "Инна Александровна",
-      "familyName": "Газиева",
+      "givenName": "Inna",
+      "familyName": "Gazieva",
       "affiliation": {
         "@type": "Organization",
-        "name": "РАНХиГС (Президентская академия)"
+        "name": "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
       }
     }
   ],

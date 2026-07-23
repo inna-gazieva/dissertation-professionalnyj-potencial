@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Если вы используете этот текст, цитируйте диссертацию по данным ниже (preferred-citation)."
 title: "Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход (полный текст диссертации)"
 authors:
-  - family-names: "Газиева"
-    given-names: "Инна Александровна"
+  - family-names: "Gazieva"
+    given-names: "Inna"
     orcid: "https://orcid.org/0000-0002-0778-7171"
     website: "https://inna-gazieva.ru/"
 type: dataset
@@ -22,8 +22,8 @@ preferred-citation:
   type: thesis
   title: "Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход"
   authors:
-    - family-names: "Газиева"
-      given-names: "Инна Александровна"
+    - family-names: "Gazieva"
+      given-names: "Inna"
       orcid: "https://orcid.org/0000-0002-0778-7171"
   thesis-type: "Диссертация на соискание учёной степени доктора социологических наук (5.4.4)"
   institution:
