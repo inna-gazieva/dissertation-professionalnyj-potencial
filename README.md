@@ -70,6 +70,13 @@
 
 Профили автора: [ORCID](https://orcid.org/0000-0002-0778-7171) · [Google Scholar](https://scholar.google.com/citations?user=nFADEQkAAAAJ) · [eLibrary / РИНЦ](https://www.elibrary.ru/author_profile.asp?authorid=532316) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57476805800) · [Web of Science](https://www.webofscience.com/wos/author/record/HKP-0645-2023) · [ResearchGate](https://www.researchgate.net/profile/Inna-Gazieva-2) · [Wikidata](https://www.wikidata.org/wiki/Q140355257) · [сайт](https://inna-gazieva.ru/)
 
+## Проверка целостности
+
+В репозитории есть самопроверка: `python3 tests/check_consistency.py` проверяет,
+что файлы цитирования (CITATION.cff, .zenodo.json) читаются, DOI согласованы
+между файлами, а относительные ссылки ведут на существующие файлы. С флагом
+`--online` дополнительно проверяется, что каждый DOI открывается через doi.org.
+
 ## Лицензия
 
 Текст © Газиева Инна Александровна. Распространяется по лицензии [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru): можно читать, индексировать, цитировать с указанием авторства; нельзя использовать в коммерческих целях и распространять изменённые версии. Подробнее — [LICENSE.md](LICENSE.md).
