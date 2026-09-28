@@ -1,4 +1,4 @@
-> **I. A. Gazieva. Formation of the Professional Potential of Youth in the Higher Education System: A Value-Based Approach** — Doctoral dissertation (Doktor nauk in Sociology, specialty 5.4.4), RANEPA, Moscow, 2025, 468 pp. Defended 16 June 2025. DOI: [10.5281/zenodo.21500892](https://doi.org/10.5281/zenodo.21500892)
+> **I. A. Gazieva. Formation of the Professional Potential of Youth in the Higher Education System: A Value-Based Approach** — Doctoral dissertation (Doktor nauk in Sociology, specialty 5.4.4), RANEPA, Nizhny Novgorod, 2025, 468 pp. Defended 16 June 2025. DOI: [10.5281/zenodo.21500892](https://doi.org/10.5281/zenodo.21500892)
 >
 > [Repository map (in Russian)](README.md) · [How to cite](#how-to-cite) · [Rules for AI assistants](AI-INSTRUCTIONS.md)
 
@@ -77,7 +77,7 @@ The dissertation develops: (1) an original approach to professional potential as
 
 **APA:** Gazieva, I. A. (2025). *Formirovanie professionalnogo potentsiala molodezhi v sisteme vysshego obrazovaniya: tsennostnyi podkhod* [Formation of the professional potential of youth in the higher education system: A value-based approach] [Doctoral dissertation, RANEPA]. https://doi.org/10.5281/zenodo.21500892
 
-**GOST (Russian standard):** Газиева, И. А. Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход : дис. … д-ра социол. наук : 5.4.4 / Газиева Инна Александровна ; РАНХиГС. — Москва, 2025. — 468 с. — DOI 10.5281/zenodo.21500892.
+**GOST (Russian standard):** Газиева, И. А. Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход : дис. … д-ра социол. наук : 5.4.4 / Газиева Инна Александровна ; РАНХиГС. — Нижний Новгород, 2025. — 468 с. — DOI 10.5281/zenodo.21500892.
 
 Author: [inna-gazieva.ru](https://inna-gazieva.ru/) · [ORCID 0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171) · [Wikidata Q140355257](https://www.wikidata.org/wiki/Q140355257)
 

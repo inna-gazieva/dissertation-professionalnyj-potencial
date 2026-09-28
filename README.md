@@ -46,7 +46,7 @@
 
 ## Как цитировать
 
-**ГОСТ:** Газиева, И. А. Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход : дис. … д-ра социол. наук : 5.4.4 / Газиева Инна Александровна ; РАНХиГС. — Москва, 2025. — 468 с. — DOI 10.5281/zenodo.21500892.
+**ГОСТ:** Газиева, И. А. Формирование профессионального потенциала молодёжи в системе высшего образования: ценностный подход : дис. … д-ра социол. наук : 5.4.4 / Газиева Инна Александровна ; РАНХиГС. — Нижний Новгород, 2025. — 468 с. — DOI 10.5281/zenodo.21500892.
 
 **APA:** Gazieva, I. A. (2025). *Formirovanie professionalnogo potentsiala molodezhi v sisteme vysshego obrazovaniya: tsennostnyi podkhod* [Formation of the professional potential of youth in the higher education system: A value approach] [Doctoral dissertation, RANEPA]. https://doi.org/10.5281/zenodo.21500892
 
